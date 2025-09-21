@@ -3,7 +3,7 @@ Smart Irrigation System
 The Smart Irrigation System is a web-based project that helps farmers and users optimize water usage.
 It uses NASA weather and climate data along with AI-based recommendations to decide when and how much to irrigate crops.
 
-Live : 
+Live : https://manasa-s7.github.io/Smart-Irrigation-System-/
 
 Features
 
